@@ -1,3 +1,5 @@
+[![GitHub Streak](https://streak-stats.demolab.com/?user=bwcii)](https://git.io/streak-stats)
+
 ### Hello everyone!
 
 I'm Benjamin Crouch II (He/Him) and my purpose in life is to save humanity as many labor-hours as possible.
