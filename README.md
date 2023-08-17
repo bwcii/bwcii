@@ -8,6 +8,6 @@ I'm at the point where I want to start putting the different pieces of what I've
 I'm interested in Machine Learning, *nix systems programming, enterprise networking, information security, automation, DevOps, SRE, blah, blah, blah... The details aren't important. The only important thing worth mentioning is that I'm interested in learning new technologies, solutions, and interesting problems. 
 I'm so thankful to have a career that lets me do that.
 
-You can find me on 𝕏 (twitter) @bwcii_tech. 
+You can find me on 𝕏 (twitter) @bwcii_dev. 
 
 Don't be a stranger! I may not have the answer you're looking for, but I can be your digital rubber duck if nothing else.
